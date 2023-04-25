@@ -1,2 +1,2 @@
 # Grupo 6
-![mobile](https://user-images.githubusercontent.com/119267136/234168500-1183f611-4f40-412d-9209-6e273fce054b.png)
+<img src="https://github.com/INGESO-2023-1/grupo_6/blob/main/Screenshots/mobile.png" width="100" height="100" />
