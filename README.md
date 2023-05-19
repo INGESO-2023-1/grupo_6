@@ -1,4 +1,4 @@
-### Chattify
+# Chattify
 
 A new Flutter project.
 
