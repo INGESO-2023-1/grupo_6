@@ -1,4 +1,4 @@
-import 'package:chattify/Screens/Home/chat.ScreenW.dart';
+import 'package:chattify/Screens/Home/Web/chat.ScreenW.dart';
 import 'package:chattify/Screens/Signup/Web/signup.Web.dart';
 import 'package:chattify/Utils/global_colors.dart';
 import 'package:chattify/Utils/social.dart';

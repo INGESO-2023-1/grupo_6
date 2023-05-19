@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.chattify.app-mergeDebugResources-21:/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "com.example.chattify.app-mergeDebugResources-25:/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\d90c3f4b58ea7c1c55c9e3d456d2c3d5\\transformed\\browser-1.4.0\\res\\values-en-rIN\\values-en-rIN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,153,250,359",
-                        "endColumns": "97,96,108,98",
-                        "endOffsets": "148,245,354,453"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\e45aab57b239f903cfe50a84eb32b7ea\\transformed\\core-1.9.0-alpha05\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\ac29de7d1cff2748131ce9542f3a6c42\\transformed\\core-1.9.0\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "458",
                         "endColumns": "100",
                         "endOffsets": "554"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\d90c3f4b58ea7c1c55c9e3d456d2c3d5\\transformed\\browser-1.4.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,250,359",
+                        "endColumns": "97,96,108,98",
+                        "endOffsets": "148,245,354,453"
                     }
                 }
             ]

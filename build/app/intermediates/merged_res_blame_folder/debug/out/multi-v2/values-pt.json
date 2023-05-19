@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.chattify.app-mergeDebugResources-21:/values-pt/values-pt.xml",
+            "outputFile": "com.example.chattify.app-mergeDebugResources-25:/values-pt/values-pt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\d90c3f4b58ea7c1c55c9e3d456d2c3d5\\transformed\\browser-1.4.0\\res\\values-pt\\values-pt.xml",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\e45aab57b239f903cfe50a84eb32b7ea\\transformed\\core-1.9.0-alpha05\\res\\values-pt\\values-pt.xml",
+                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\ac29de7d1cff2748131ce9542f3a6c42\\transformed\\core-1.9.0\\res\\values-pt\\values-pt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
