@@ -1,6 +1,6 @@
 # Chattify
 
-A new Flutter project.
+Aplicación de mensajeria en tiempo real.
 
 ## Getting Started
 
