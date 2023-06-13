@@ -474,6 +474,23 @@
             "outputFile": "com.example.chattify.app-merged_res-29:/values_values.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\src\\ChattifyProyect\\grupo_6\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,707",
+                        "endColumns": "143,81,103,108,119,92,69",
+                        "endOffsets": "194,276,380,489,609,702,772"
+                    },
+                    "to": {
+                        "startLines": "132,137,138,139,140,141,142",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "9305,9746,9828,9932,10041,10161,10254",
+                        "endColumns": "143,81,103,108,119,92,69",
+                        "endOffsets": "9444,9823,9927,10036,10156,10249,10319"
+                    }
+                },
+                {
                     "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\2f65c8772154785d02abc8733fa1568a\\transformed\\lifecycle-viewmodel-2.6.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -508,6 +525,25 @@
                     }
                 },
                 {
+                    "source": "C:\\src\\ChattifyProyect\\grupo_6\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,832",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "483,998"
+                    },
+                    "to": {
+                        "startLines": "144,148",
+                        "startColumns": "4,4",
+                        "startOffsets": "10395,10576",
+                        "endLines": "147,150",
+                        "endColumns": "12,12",
+                        "endOffsets": "10571,10740"
+                    }
+                },
+                {
                     "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\98b565e3422f3616875ab592218ec6e0\\transformed\\jetified-activity-1.7.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -539,23 +575,6 @@
                         "startOffsets": "9664",
                         "endColumns": "81",
                         "endOffsets": "9741"
-                    }
-                },
-                {
-                    "source": "C:\\src\\chattify\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,707",
-                        "endColumns": "143,81,103,108,119,92,69",
-                        "endOffsets": "194,276,380,489,609,702,772"
-                    },
-                    "to": {
-                        "startLines": "132,137,138,139,140,141,142",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "9305,9746,9828,9932,10041,10161,10254",
-                        "endColumns": "143,81,103,108,119,92,69",
-                        "endOffsets": "9444,9823,9927,10036,10156,10249,10319"
                     }
                 },
                 {
@@ -664,25 +683,6 @@
                         "endLines": "2,11,12,25,26,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,87,88,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,111,143,151,155,156,160,161,162,163,179,189,222,243,276,282",
                         "endColumns": "59,71,87,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,57,60,62,56,50,49,60,56,65,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24,24",
                         "endOffsets": "160,568,656,1645,1708,1921,1989,2061,2131,2192,2266,2339,2400,2461,2523,2587,2649,2710,2778,2878,2938,3004,3077,3146,3203,3255,3317,3389,3465,3530,3589,3648,3708,3768,3828,3888,3948,4008,4068,4128,4188,4248,4307,4367,4427,4487,4547,4607,4667,4727,4787,4847,4907,4966,5026,5086,5145,5204,5263,5322,5381,5440,5535,5570,5667,5730,5785,5843,5901,5962,6025,6082,6133,6183,6244,6301,6367,6401,6436,6471,6816,10390,10857,11058,11168,11369,11498,11570,11637,12166,12467,14198,14879,15561,15728"
-                    }
-                },
-                {
-                    "source": "C:\\src\\chattify\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,832",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "483,998"
-                    },
-                    "to": {
-                        "startLines": "144,148",
-                        "startColumns": "4,4",
-                        "startOffsets": "10395,10576",
-                        "endLines": "147,150",
-                        "endColumns": "12,12",
-                        "endOffsets": "10571,10740"
                     }
                 },
                 {
@@ -5977,7 +5977,7 @@
             "outputFile": "com.example.chattify.app-merged_res-29:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\src\\chattify\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\src\\ChattifyProyect\\grupo_6\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

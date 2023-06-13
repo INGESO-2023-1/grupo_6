@@ -13,20 +13,20 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\src\chattify\android\app\src\debug\AndroidManifest.xml:7:5-66
-15-->C:\src\chattify\android\app\src\debug\AndroidManifest.xml:7:22-64
+15-->C:\src\ChattifyProyect\grupo_6\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->C:\src\ChattifyProyect\grupo_6\android\app\src\debug\AndroidManifest.xml:7:22-64
 16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->C:\src\chattify\android\app\src\main\AndroidManifest.xml:3:5-79
-16-->C:\src\chattify\android\app\src\main\AndroidManifest.xml:3:22-77
+16-->C:\src\ChattifyProyect\grupo_6\android\app\src\main\AndroidManifest.xml:3:5-79
+16-->C:\src\ChattifyProyect\grupo_6\android\app\src\main\AndroidManifest.xml:3:22-77
 17    <uses-permission android:name="android.permission.WAKE_LOCK" />
-17-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
-17-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-65
+17-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
+17-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-65
 18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Permissions options for the `notification` group -->
-18-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
-18-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
+18-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
+18-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
 19    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-19-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-77
-19-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-74
+19-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-77
+19-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-74
 20    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 20-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\alanc\.gradle\caches\transforms-3\39f7233ecff43140d5274f7ddd469287\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:26:5-82
 20-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\alanc\.gradle\caches\transforms-3\39f7233ecff43140d5274f7ddd469287\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:26:22-79
@@ -89,43 +89,43 @@
 67            android:value="2" />
 68
 69        <service
-69-->[:firebase_auth] C:\src\chattify\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+69-->[:firebase_auth] C:\src\ChattifyProyect\grupo_6\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 70            android:name="com.google.firebase.components.ComponentDiscoveryService"
-70-->[:firebase_auth] C:\src\chattify\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+70-->[:firebase_auth] C:\src\ChattifyProyect\grupo_6\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
 71            android:directBootAware="true"
 71-->[com.google.firebase:firebase-common:20.3.2] C:\Users\alanc\.gradle\caches\transforms-3\c9e2e12eb268e596d068a99bad3aa002\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
 72            android:exported="false" >
 72-->[com.google.firebase:firebase-analytics-ktx:21.2.2] C:\Users\alanc\.gradle\caches\transforms-3\597d98461eaf38f2cf416ce0580b055c\transformed\jetified-firebase-analytics-ktx-21.2.2\AndroidManifest.xml:10:13-37
 73            <meta-data
-73-->[:firebase_auth] C:\src\chattify\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+73-->[:firebase_auth] C:\src\ChattifyProyect\grupo_6\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 74                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-74-->[:firebase_auth] C:\src\chattify\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+74-->[:firebase_auth] C:\src\ChattifyProyect\grupo_6\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 75                android:value="com.google.firebase.components.ComponentRegistrar" />
-75-->[:firebase_auth] C:\src\chattify\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+75-->[:firebase_auth] C:\src\ChattifyProyect\grupo_6\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 76            <meta-data
-76-->[:firebase_storage] C:\src\chattify\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+76-->[:firebase_storage] C:\src\ChattifyProyect\grupo_6\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 77                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-77-->[:firebase_storage] C:\src\chattify\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-126
+77-->[:firebase_storage] C:\src\ChattifyProyect\grupo_6\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-126
 78                android:value="com.google.firebase.components.ComponentRegistrar" />
-78-->[:firebase_storage] C:\src\chattify\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+78-->[:firebase_storage] C:\src\ChattifyProyect\grupo_6\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 79            <meta-data
-79-->[:cloud_firestore] C:\src\chattify\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+79-->[:cloud_firestore] C:\src\ChattifyProyect\grupo_6\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 80                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-80-->[:cloud_firestore] C:\src\chattify\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
+80-->[:cloud_firestore] C:\src\ChattifyProyect\grupo_6\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
 81                android:value="com.google.firebase.components.ComponentRegistrar" />
-81-->[:cloud_firestore] C:\src\chattify\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+81-->[:cloud_firestore] C:\src\ChattifyProyect\grupo_6\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 82            <meta-data
-82-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-40:85
+82-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-40:85
 83                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
-83-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:39:17-128
+83-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:39:17-128
 84                android:value="com.google.firebase.components.ComponentRegistrar" />
-84-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:40:17-82
+84-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:40:17-82
 85            <meta-data
-85-->[:firebase_core] C:\src\chattify\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+85-->[:firebase_core] C:\src\ChattifyProyect\grupo_6\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 86                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-86-->[:firebase_core] C:\src\chattify\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+86-->[:firebase_core] C:\src\ChattifyProyect\grupo_6\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 87                android:value="com.google.firebase.components.ComponentRegistrar" />
-87-->[:firebase_core] C:\src\chattify\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+87-->[:firebase_core] C:\src\ChattifyProyect\grupo_6\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 88            <meta-data
 88-->[com.google.firebase:firebase-analytics-ktx:21.2.2] C:\Users\alanc\.gradle\caches\transforms-3\597d98461eaf38f2cf416ce0580b055c\transformed\jetified-firebase-analytics-ktx-21.2.2\AndroidManifest.xml:11:13-13:85
 89                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
@@ -188,69 +188,69 @@
 117-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\alanc\.gradle\caches\transforms-3\a992ad2517b2ead14b8c72bcfd82cd76\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
 118        </service>
 119        <service
-119-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-19:72
+119-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-19:72
 120            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
-120-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-107
+120-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-107
 121            android:exported="false"
-121-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+121-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
 122            android:permission="android.permission.BIND_JOB_SERVICE" />
-122-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-69
+122-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-69
 123        <service
-123-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-26:19
+123-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-26:19
 124            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
-124-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-97
+124-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-97
 125            android:exported="false" >
-125-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-37
+125-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-37
 126            <intent-filter>
-126-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
+126-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
 127                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-127-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
-127-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
+127-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
+127-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
 128            </intent-filter>
 129        </service>
 130
 131        <receiver
-131-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-35:20
+131-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-35:20
 132            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
-132-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-98
+132-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-98
 133            android:exported="true"
-133-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-36
+133-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-36
 134            android:permission="com.google.android.c2dm.permission.SEND" >
-134-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-73
+134-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-73
 135            <intent-filter>
-135-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
+135-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
 136                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-136-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
-136-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
+136-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
+136-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
 137            </intent-filter>
 138        </receiver>
 139
 140        <provider
-140-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-47:38
+140-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-47:38
 141            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-141-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-102
+141-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-102
 142            android:authorities="com.example.chattify.flutterfirebasemessaginginitprovider"
-142-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-88
+142-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-88
 143            android:exported="false"
-143-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-37
+143-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-37
 144            android:initOrder="99" />
-144-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-35
+144-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-35
 145        <provider
-145-->[:image_picker_android] C:\src\chattify\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+145-->[:image_picker_android] C:\src\ChattifyProyect\grupo_6\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
 146            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-146-->[:image_picker_android] C:\src\chattify\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
+146-->[:image_picker_android] C:\src\ChattifyProyect\grupo_6\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
 147            android:authorities="com.example.chattify.flutter.image_provider"
-147-->[:image_picker_android] C:\src\chattify\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+147-->[:image_picker_android] C:\src\ChattifyProyect\grupo_6\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
 148            android:exported="false"
-148-->[:image_picker_android] C:\src\chattify\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+148-->[:image_picker_android] C:\src\ChattifyProyect\grupo_6\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 149            android:grantUriPermissions="true" >
-149-->[:image_picker_android] C:\src\chattify\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+149-->[:image_picker_android] C:\src\ChattifyProyect\grupo_6\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
 150            <meta-data
-150-->[:image_picker_android] C:\src\chattify\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+150-->[:image_picker_android] C:\src\ChattifyProyect\grupo_6\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
 151                android:name="android.support.FILE_PROVIDER_PATHS"
-151-->[:image_picker_android] C:\src\chattify\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+151-->[:image_picker_android] C:\src\ChattifyProyect\grupo_6\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
 152                android:resource="@xml/flutter_image_picker_file_paths" />
-152-->[:image_picker_android] C:\src\chattify\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+152-->[:image_picker_android] C:\src\ChattifyProyect\grupo_6\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
 153        </provider>
 154
 155        <activity
@@ -333,10 +333,10 @@
 195            android:permission="com.google.android.c2dm.permission.SEND" >
 195-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\alanc\.gradle\caches\transforms-3\e5317ee67ee9f15ba959034cef080060\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:34:13-73
 196            <intent-filter>
-196-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
+196-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
 197                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-197-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
-197-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
+197-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
+197-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
 198            </intent-filter>
 199        </receiver>
 200        <!--
@@ -352,10 +352,10 @@
 207            android:exported="false" >
 207-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\alanc\.gradle\caches\transforms-3\e5317ee67ee9f15ba959034cef080060\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:47:13-37
 208            <intent-filter android:priority="-500" >
-208-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
+208-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
 209                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-209-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
-209-->[:firebase_messaging] C:\src\chattify\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
+209-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
+209-->[:firebase_messaging] C:\src\ChattifyProyect\grupo_6\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
 210            </intent-filter>
 211        </service>
 212
