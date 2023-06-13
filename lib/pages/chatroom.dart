@@ -2,6 +2,7 @@ import 'package:chattify/theme/gcolors.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:chattify/services/auth.dart';
 
 class chatroom extends StatelessWidget {
   final Map<String, dynamic> userMap;
@@ -13,6 +14,8 @@ class chatroom extends StatelessWidget {
   final FirebaseFirestore _firestore = FirebaseFirestore.instance;
   final FirebaseAuth _auth = FirebaseAuth.instance;
 
+  AuthService service = AuthService();
+
   void onSendMessage() async {
     if (_message.text.isNotEmpty) {
       Map<String, dynamic> messages = {
@@ -22,6 +25,8 @@ class chatroom extends StatelessWidget {
         "time": FieldValue.serverTimestamp(),
       };
 
+      service.sendPushNotification(
+          userMap["pushToken"], _auth.currentUser!.displayName!, _message.text);
       _message.clear();
       await _firestore
           .collection('chatroom')
