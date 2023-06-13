@@ -44,7 +44,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     BottomNavigationBarItem(
                         icon: Icon(Icons.message), label: "Chat"),
                     BottomNavigationBarItem(
-                        icon: Icon(Icons.contacts), label: "Contacts"),
+                        icon: Icon(Icons.contacts), label: "a"),
                     BottomNavigationBarItem(
                         icon: Icon(Icons.person), label: "Profile"),
                   ],
