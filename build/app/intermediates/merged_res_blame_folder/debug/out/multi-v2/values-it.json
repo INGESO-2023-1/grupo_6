@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.chattify.app-mergeDebugResources-25:/values-it/values-it.xml",
+            "outputFile": "com.example.chattify.app-mergeDebugResources-27:/values-it/values-it.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\d90c3f4b58ea7c1c55c9e3d456d2c3d5\\transformed\\browser-1.4.0\\res\\values-it\\values-it.xml",
+                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\2489c84630db26337ef7a7026148ec7b\\transformed\\browser-1.4.0\\res\\values-it\\values-it.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\1e50790f6cee75425d9cf1d773163f46\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-it\\values.xml",
+                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\02d71f4ae02b9a4c18bfcbb22b8efecd\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-it\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\b46c5a9c65bafb4aca1b0fa8213175f3\\transformed\\jetified-play-services-base-18.0.1\\res\\values-it\\values.xml",
+                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\5e4fbc6a638b37b179df7ced430d79cc\\transformed\\jetified-play-services-base-18.0.1\\res\\values-it\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\ac29de7d1cff2748131ce9542f3a6c42\\transformed\\core-1.9.0\\res\\values-it\\values-it.xml",
+                    "source": "C:\\Users\\alanc\\.gradle\\caches\\transforms-3\\1a815556ab28ca51f0aa98ea57b5296b\\transformed\\core-1.9.0\\res\\values-it\\values-it.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

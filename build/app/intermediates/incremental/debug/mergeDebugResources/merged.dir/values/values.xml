@@ -130,16 +130,17 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="copy_toast_msg">Link copied to clipboard</string>
-    <string name="default_web_client_id" translatable="false">559563343307-dfd7kbpec2f734khr37pi6bh3uvrlc4f.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">170248401704-du1tj51bofph6ikvfmn8kikgt35fldo5.apps.googleusercontent.com</string>
     <string name="fallback_menu_item_copy_link">Copy link</string>
     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
     <string name="fallback_menu_item_share_link">Share link</string>
-    <string name="gcm_defaultSenderId" translatable="false">559563343307</string>
-    <string name="google_api_key" translatable="false">AIzaSyCMQmcZ4XdYZ3TUMLOnkoXLVgfBrALN3z0</string>
-    <string name="google_app_id" translatable="false">1:559563343307:android:135b3c7475c5d6f260624e</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCMQmcZ4XdYZ3TUMLOnkoXLVgfBrALN3z0</string>
-    <string name="google_storage_bucket" translatable="false">chattify-3d4a4.appspot.com</string>
-    <string name="project_id" translatable="false">chattify-3d4a4</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="gcm_defaultSenderId" translatable="false">170248401704</string>
+    <string name="google_api_key" translatable="false">AIzaSyDIXuHARcso0_MKLRx2rUhdfZoca-M8id8</string>
+    <string name="google_app_id" translatable="false">1:170248401704:android:0086df04d73b34fbb6961d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDIXuHARcso0_MKLRx2rUhdfZoca-M8id8</string>
+    <string name="google_storage_bucket" translatable="false">chattify2.appspot.com</string>
+    <string name="project_id" translatable="false">chattify2</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
         

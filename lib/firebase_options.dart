@@ -25,7 +25,10 @@ class DefaultFirebaseOptions {
       case TargetPlatform.iOS:
         return ios;
       case TargetPlatform.macOS:
-        return macos;
+        throw UnsupportedError(
+          'DefaultFirebaseOptions have not been configured for macos - '
+          'you can reconfigure this by running the FlutterFire CLI again.',
+        );
       case TargetPlatform.windows:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for windows - '
@@ -44,40 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDFHkXps4DmR5Tnnz00m7V1BqhL2xv_0BI',
-    appId: '1:559563343307:web:b477be195045a03960624e',
-    messagingSenderId: '559563343307',
-    projectId: 'chattify-3d4a4',
-    authDomain: 'chattify-3d4a4.firebaseapp.com',
-    storageBucket: 'chattify-3d4a4.appspot.com',
-    measurementId: 'G-2Y3N6QPGNT',
+    apiKey: 'AIzaSyARFQ7lAlsm7p3lHWBJ4INvPIrpUGM7-bE',
+    appId: '1:170248401704:web:918c73d318b779dab6961d',
+    messagingSenderId: '170248401704',
+    projectId: 'chattify2',
+    authDomain: 'chattify2.firebaseapp.com',
+    storageBucket: 'chattify2.appspot.com',
+    measurementId: 'G-8KZV29PQR0',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCMQmcZ4XdYZ3TUMLOnkoXLVgfBrALN3z0',
-    appId: '1:559563343307:android:135b3c7475c5d6f260624e',
-    messagingSenderId: '559563343307',
-    projectId: 'chattify-3d4a4',
-    storageBucket: 'chattify-3d4a4.appspot.com',
+    apiKey: 'AIzaSyDIXuHARcso0_MKLRx2rUhdfZoca-M8id8',
+    appId: '1:170248401704:android:0086df04d73b34fbb6961d',
+    messagingSenderId: '170248401704',
+    projectId: 'chattify2',
+    storageBucket: 'chattify2.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC7qqVWfZBTKcLkzRLGjxO8juI4rwcwVGE',
-    appId: '1:559563343307:ios:a24273774151c90660624e',
-    messagingSenderId: '559563343307',
-    projectId: 'chattify-3d4a4',
-    storageBucket: 'chattify-3d4a4.appspot.com',
-    iosClientId: '559563343307-6ueekan228c4ffcspnk5vf78pp6nnu60.apps.googleusercontent.com',
+    apiKey: 'AIzaSyAscBvumlLpIlOpVLI4UxAQyY28a8uyjTE',
+    appId: '1:170248401704:ios:fc7450392af4b560b6961d',
+    messagingSenderId: '170248401704',
+    projectId: 'chattify2',
+    storageBucket: 'chattify2.appspot.com',
+    iosClientId: '170248401704-8oattbdkbc6grp3b1i1ndaccup7nee7u.apps.googleusercontent.com',
     iosBundleId: 'com.example.chattify',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC7qqVWfZBTKcLkzRLGjxO8juI4rwcwVGE',
-    appId: '1:559563343307:ios:2bb4114bac564c5e60624e',
-    messagingSenderId: '559563343307',
-    projectId: 'chattify-3d4a4',
-    storageBucket: 'chattify-3d4a4.appspot.com',
-    iosClientId: '559563343307-ol5p58bdho33uv8o9pbiuk18pd0oun8b.apps.googleusercontent.com',
-    iosBundleId: 'com.example.chattify.RunnerTests',
   );
 }
